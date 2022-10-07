@@ -1,0 +1,12 @@
+.step {
+    color: blue;
+}
+
+.step span.value {
+    color: black;
+}
+
+.stepCount {
+    width: 60px;
+    margin-left: 5px;
+}
